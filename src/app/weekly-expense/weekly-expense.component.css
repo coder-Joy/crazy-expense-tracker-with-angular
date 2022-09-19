@@ -1,0 +1,26 @@
+.main-zone{
+    position: absolute;
+    height: 68vh;
+    width: 30px;
+    left: 50px;
+    top: 15vh;
+}
+.pol{
+    position: absolute;
+    height: inherit;
+    width: inherit;
+    background-color: #000;
+    border-radius: 3px;
+}
+.items{
+    position: relative;
+    width: 60vw;
+    height: 50px;
+    text-align: center;
+    background-color: white;
+    position: absolute;
+    border-radius: 35% 0 0 0%;
+}
+ul{
+    list-style-type: none;
+}
